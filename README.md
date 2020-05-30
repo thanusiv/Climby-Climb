@@ -6,7 +6,7 @@
 - [Overview](#Overview)
 - [Screenshots](#Screenshots)
 - [Features](#Features)
-- [Cool Things about the App]()
+- [Cool Things about the App](#cool-things-about-the-app)
 - [Technologies Used](#technologies-used)
 - [Acknowledgements](#acknowledgements)
 
