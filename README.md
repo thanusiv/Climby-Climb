@@ -22,3 +22,7 @@
 
 - [Android Studio](https://developer.android.com/studio) - IDE used to build the game
 - [Java](https://www.java.com/en/download/) - Programming language used (Created the game when I was new to programming, so I used Java instead of Kotlin)
+
+## Acknowledgements
+
+- Thanks to Platformer Art (more enemies and animations) by Kenney Vleugels (www.kenney.nl) for allowing me to use his sprites/images
