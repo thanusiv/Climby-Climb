@@ -24,4 +24,4 @@
 ## Technologies Used
 
 - [Android Studio](https://developer.android.com/studio) - IDE used to build the game
-- [Java]() - Programming language used (Created the game when I was new to programming, so I used Java instead of Kotlin)
+- [Java](https://www.java.com/en/download/) - Programming language used (Created the game when I was new to programming, so I used Java instead of Kotlin)
