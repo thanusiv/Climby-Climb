@@ -6,6 +6,7 @@
 - [Overview](#Overview)
 - [Screenshots](#Screenshots)
 - [Features](#Features)
+- [Cool Things about the App]()
 - [Technologies Used](#technologies-used)
 - [Acknowledgements](#acknowledgements)
 
@@ -25,6 +26,14 @@
 - Jump spikes, run away from ghosts and duck under bees to avoid falling from your doom!
 - Awesome time-killer
 - Easy to learn and fun to play
+
+## Cool Things about the App
+
+- Utilized multithreaded operations such as AsyncTask, Runnables and Threads to spawn obstacles
+- Developed the app’s UX by identifying user-friendly controls through player feedback and surveys
+- Applied object-oriented programming principles to create randomly generated levels
+- Scaled and optimized the game to be functional across all displays
+- Implemented 10 unique animations using open-source software for the game’s character and obstacles
 
 ## Technologies Used
 
