@@ -5,7 +5,7 @@
 
 - [Overview](#Overview)
 - [Screenshots](#Screenshots)
-- [How to Play on Your Device](#Screenshots)
+- [How to Play on Your Device](#how-to-play-on-your-device)
 - [Features](#Features)
 - [Cool Things about the App](#cool-things-about-the-app)
 - [Technologies Used](#technologies-used)
