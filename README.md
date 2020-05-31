@@ -18,8 +18,9 @@
 ## Screenshots
 
 <img width = 300 src="Screenshots/Screenshot_20180717-170842.png"/> <img width = 300 src="Screenshots/Screenshot_20180717-170847.png"/>
-<img width = 300 src="Screenshots/Screenshot_20180717-170857.png"/> <img width = 300 src="Screenshots/Screenshot_20180717-171442.png"/>
+<img width = 300 src="Screenshots/Screenshot_20180717-170857.png"/> <img width = 300 src="Screenshots/Screenshot_20200531-102820.png"/>
 <img width = 300 src="Screenshots/Screenshot_20180717-171500.png"/> <img width = 300 src="Screenshots/Screenshot_20180717-171528.png"/>
+<img width = 300 src="Screenshots/Screenshot_20200531-102906.png"/> <img width = 300 src="Screenshots/Screenshot_20200531-102841.png"/>
 
 ## How to Play on Your Device
 
