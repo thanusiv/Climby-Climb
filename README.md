@@ -5,6 +5,7 @@
 
 - [Overview](#Overview)
 - [Screenshots](#Screenshots)
+- [How to Play on Your Device](#Screenshots)
 - [Features](#Features)
 - [Cool Things about the App](#cool-things-about-the-app)
 - [Technologies Used](#technologies-used)
@@ -19,6 +20,10 @@
 <img width = 300 src="Screenshots/Screenshot_20180717-170842.png"/> <img width = 300 src="Screenshots/Screenshot_20180717-170847.png"/>
 <img width = 300 src="Screenshots/Screenshot_20180717-170857.png"/> <img width = 300 src="Screenshots/Screenshot_20180717-171442.png"/>
 <img width = 300 src="Screenshots/Screenshot_20180717-171500.png"/> <img width = 300 src="Screenshots/Screenshot_20180717-171528.png"/>
+
+## How to Play on Your Device
+
+You can simply click on the hyperlink of Climby CLimb in the [Overview](#Overview) section or [click here](https://play.google.com/store/apps/details?id=com.game.thanu.gameapp) to download the app from the Google Play Store. Alternatively, you can clone this repository and open it up in Android Studio. Then simply load the app to you Android device by clicking the green play button on the top-right side of the IDE (assuming no compilation erros :p).
 
 ## Features
 
