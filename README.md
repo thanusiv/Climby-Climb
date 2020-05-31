@@ -33,4 +33,4 @@
 
 ## Acknowledgements
 
-- Thanks to Platformer Art by Kenney Vleugels (www.kenney.nl) for allowing me to use his sprites/images
+- Thanks to [Platformer Art by Kenney Vleugels](www.kenney.nl) for allowing me to use his sprites/images
