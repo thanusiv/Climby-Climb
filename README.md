@@ -23,7 +23,9 @@
 
 ## How to Play on Your Device
 
-You can simply click on the hyperlink of Climby CLimb in the [Overview](#Overview) section or [click here](https://play.google.com/store/apps/details?id=com.game.thanu.gameapp) to download the app from the Google Play Store. Alternatively, you can clone this repository and open it up in Android Studio. Then simply load the app to you Android device by clicking the green play button on the top-right side of the IDE (assuming no compilation erros :D).
+You can simply click on the hyperlink of Climby CLimb in the [Overview](#Overview) section or [click here](https://play.google.com/store/apps/details?id=com.game.thanu.gameapp) to download the app from the Google Play Store. 
+
+Alternatively, you can clone this repository and open it up in Android Studio. Then simply load the app to you Android device by clicking the green play button on the top-right side of the IDE (assuming no compilation erros :D).
 
 ## Features
 
